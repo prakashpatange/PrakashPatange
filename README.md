@@ -61,6 +61,6 @@ Data Structures & Algorithms • REST APIs • DBMS • SDLC • OOP
 
 * 💼 LinkedIn: [www.linkedin.com/in/prakash-patange-50a83b290](http://www.linkedin.com/in/prakash-patange-50a83b290)
 * 📧 Email: [prakashpatange0@gmail.com](mailto:prakashpatange0@gmail.com)
-* 🌐 Portfolio: https://prakash18.netlify.app
+* 🌐 Portfolio: https://portfolio-eoa6tri6v-prakashpatanges-projects.vercel.app/
 
 Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
